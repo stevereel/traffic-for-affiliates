@@ -26,7 +26,7 @@ I recently analyzed [LeadsLeap](https://onlineturboprofits.com/leadsleap-review/
 ## Free Bonus: Traffic Sources Cheat Sheet
 
 Get my **"17 Free & Low-Cost Traffic Sources"** PDF when you:
-1. Visit my [LeadLeap review](https://onlineturboprofits.com/leadsleap-review/)
+1. Visit my [LeadsLeap review](https://onlineturboprofits.com/leadsleap-review/)
 2. Email `bonus@onlineturboprofits.com` with subject "GitHub Traffic PDF"
 
 The guide includes:
