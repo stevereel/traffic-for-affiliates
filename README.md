@@ -1,3 +1,6 @@
+## 📊 Visual Preview
+[![Free Traffic Cheat Sheet Preview](https://imgallery.llsvr.com/stevereal.6818d81945482.jpg)](https://onlineturboprofits.com/leadsleap-review/)
+*Click image to get full PDF bonus*
 # traffic-for-affiliates
 How to use LeadsLeap to get traffic leads and sales, while building a list.
 # Practical Traffic Sources for Affiliate Marketers
