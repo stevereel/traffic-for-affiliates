@@ -60,15 +60,15 @@ Curated from community contributions and personal testing.
 
 ---
 
-## 🔄 How to Combine with LeadLeap
+## 🔄 How to Combine with LeadsLeap
 1. Use free credits to test different offers  
-2. Drive traffic from these sources to your LeadLeap capture page  
+2. Drive traffic from these sources to your LeadsLeap capture page  
 3. Reinforce with email follow-ups  
 
 ---
 
 ## 📌 Pro Tips
-- **Track links** with Bit.ly to see what works  
+- **Track links** with LeadsLeap free tracking to see what works  
 - **Double down** on 2-3 methods that convert  
 - **Contribute edits** to this list via Pull Requests  
 
