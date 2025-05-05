@@ -12,9 +12,9 @@ This repository documents **realistic traffic sources** I've tested for affiliat
 
 ---
 
-## Featured Tool: LeadLeap Review
+## Featured Tool: LeadsLeap Review
 
-I recently analyzed [LeadLeap](https://onlineturboprofits.com/leadsleap-review/), a traffic exchange platform that:
+I recently analyzed [LeadsLeap](https://onlineturboprofits.com/leadsleap-review/), a traffic exchange platform that:
 - Provides free credits daily
 - Includes built-in capture pages
 - Allows earnings from engagement
