@@ -19,7 +19,7 @@ I recently analyzed [LeadsLeap](https://onlineturboprofits.com/leadsleap-review/
 - Includes built-in capture pages
 - Allows earnings from engagement
 
-[Read my complete LeadLeap review](https://onlineturboprofits.com/leadsleap-review/) for a balanced perspective.
+[Read my complete LeadsLeap review](https://onlineturboprofits.com/leadsleap-review/) for a balanced perspective.
 
 ---
 
